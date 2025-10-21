@@ -1,0 +1,25 @@
+# Ignore Dart build artifacts and environment files
+build/
+.dart_tool/
+.pub-cache/
+
+# Ignore IDE specific files
+*.iml
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore coverage reports
+coverage/
+
+# Ignore platform-specific files (e.g., for Flutter)
+ios/
+android/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
