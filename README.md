@@ -1,6 +1,6 @@
 
 
-![Electricity Bill Calculator Diagram](img/image.png)
+![Electricity Bill Calculator Diagram](Lab_12/my_dart_app/img/image.png)
 
 
 # កម្មវិធីគណនាវិក្កយបត្រអគ្គិសនី Dart
