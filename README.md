@@ -29,7 +29,7 @@
 
 1.  ចូលទៅកាន់ directory គម្រោងក្នុង terminal របស់អ្នក:
     ```bash
-    cd /media/piseth/DATA/Year 4/Mobile/Lab_12/my_dart_app
+    cd ../Lab_12/my_dart_app
     ```
 2.  ដំណើរការ Dart script:
     ```bash
@@ -43,7 +43,7 @@
 
 1.  ចូលទៅកាន់ directory គម្រោងក្នុង terminal របស់អ្នក:
     ```bash
-    cd /media/piseth/DATA/Year 4/Mobile/Lab_12/my_dart_app
+    cd ../Lab_12/my_dart_app
     ```
 2.  ដំណើរការ Dart script ជាមួយនឹង kWh value ជា argument:
     ```bash
